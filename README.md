@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Matheus Louzada
+# Olá, eu sou Matheus Louzada
 
 🎯 Foco: Pentest Web | Active Directory | Red Team  
 💻 Estudando Segurança Ofensiva  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔐 Habilidades Técnicas
+## Habilidades Técnicas
 
 - Linux
 - Redes TCP/IP
@@ -18,7 +18,7 @@
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 🔹 Write-ups Hack The Box  
 🔹 Laboratórios próprios  
@@ -26,7 +26,9 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
+matheuscorreaoprofissional@gmail.com
+94 93300-5030
 LinkedIn: (coloque aqui)
 Email: (opcional)
