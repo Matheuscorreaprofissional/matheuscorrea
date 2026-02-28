@@ -28,7 +28,6 @@
 
 ## Contato
 
-matheuscorreaoprofissional@gmail.com
-94 93300-5030
+Number:94 93300-5030
 LinkedIn: (coloque aqui)
-Email: (opcional)
+Email: (matheuscorreaoprofissional@gmail.com)
