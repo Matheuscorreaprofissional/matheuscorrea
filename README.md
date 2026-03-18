@@ -1,5 +1,5 @@
-Eu sou um estudante em Pentesting, com experiência nas aulas de laboratório, e em projetos na Desec Security. 
+I am a student in Pentesting, with experience from laboratory classes and projects at Desec Security.
 
-Acredito, que ao terminar o curso: "Pentest Profissional", cujo possui 500 aulas gravadas e 200 aulas de laboratório, sou mais do que um estudante comum. Digo isso pela conquista de um certificado? Isto se poderia perguntar, mas como poderia um papel mudar um homem? Evidentemente o certificado é importante, mas o que foi apreendido, anotado e testado em laboratório é o substrato necessário ao homem.         
+I believe that, upon completing the course “Professional Pentest,” which includes 500 recorded lessons and 200 lab sessions, I become more than an ordinary student. Do I say this because of earning a certificate? That could be questioned—but how could a piece of paper change a man? Clearly, the certificate is important, but what has been learned, noted, and tested in the lab is the essential foundation of the individual.
 
-Os ditames gerais, deste substrato são: em metodologias de testes de intrusão ( como o a D.N.G.P ), Information Gathering, planejamento e definição de escopo, reconhecimento (OSINT), análise de vulnerabilidades, exploração e pós-exploração.
+The general principles of this foundation are: methodologies of penetration testing (such as D.N.G.P), Information Gathering, planning and scope definition, reconnaissance (OSINT), vulnerability analysis, exploitation, and post-exploitation.
