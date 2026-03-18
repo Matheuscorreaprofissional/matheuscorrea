@@ -1,33 +1,5 @@
-# Olá, eu sou Matheus Louzada
+Eu sou um estudante em Pentesting, com experiência nas aulas de laboratório, e em projetos na Desec Security. 
 
-🎯 Foco: Pentest Web | Active Directory | Red Team  
-💻 Estudando Segurança Ofensiva  
-📚 Curso: Pentest Profissional - DESEC  
+Acredito, que ao terminar o curso: "Pentest Profissional", cujo possui 500 aulas gravadas e 200 aulas de laboratório, sou mais do que um estudante comum. Digo isso pela conquista de um certificado? Isto se poderia perguntar, mas como poderia um papel mudar um homem? Evidentemente o certificado é importante, mas o que foi apreendido, anotado e testado em laboratório é o substrato necessário ao homem.         
 
----
-
-## Habilidades Técnicas
-
-- Linux
-- Redes TCP/IP
-- Nmap
-- Burp Suite
-- OWASP Top 10
-- Metasploit
-- Active Directory (em estudo)
-
----
-
-## Projetos
-
-🔹 Write-ups Hack The Box  
-🔹 Laboratórios próprios  
-🔹 Scripts em Python para automação  
-
----
-
-## Contato
-
-Number:94 93300-5030
-LinkedIn: (coloque aqui)
-Email: (matheuscorreaoprofissional@gmail.com)
+Os ditames gerais, deste substrato são: em metodologias de testes de intrusão ( como o a D.N.G.P ), Information Gathering, planejamento e definição de escopo, reconhecimento (OSINT), análise de vulnerabilidades, exploração e pós-exploração.
